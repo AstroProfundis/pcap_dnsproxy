@@ -1,11 +1,11 @@
-Pcap_DNSProxy
+ï»¿Pcap_DNSProxy
 =====
 A local DNS server base on WinPcap.
 
-### ¹ØÓÚ·ÖÖ§
-±¾·ÖÖ§ Release_x64 Îª Pcap_DNSProxy ÏîÄ¿64Î»/x64±àÒë°æ±¾µÄ·ÖÖ§£¬**Ô´´úÂëºÍËµÃ÷ÎÄµµÇëÒÆ²½ master ·ÖÖ§**
-* [master ·ÖÖ§](https://github.com/chengr28/pcap_dnsproxy)<br />
-* [Release_x86 ·ÖÖ§](https://github.com/chengr28/pcap_dnsproxy/tree/Release_x86)<br />
+### å…³äºåˆ†æ”¯
+æœ¬åˆ†æ”¯ Release_x64 ä¸º Pcap_DNSProxy é¡¹ç›®64ä½/x64ç¼–è¯‘ç‰ˆæœ¬ï¼Œ**æºä»£ç å’Œè¯´æ˜æ–‡æ¡£è¯·ç§»æ­¥ä¸»åˆ†æ”¯**
+* [master åˆ†æ”¯](https://github.com/chengr28/pcap_dnsproxy)<br />
+* [Release_x86 åˆ†æ”¯](https://github.com/chengr28/pcap_dnsproxy/tree/Release_x86)<br />
 
-### Ê¹ÓÃ·½·¨
-²Î¼û [Wiki](https://github.com/chengr28/pcap_dnsproxy/wiki) ÖĞ [ReadMe](https://github.com/chengr28/pcap_dnsproxy/wiki/ReadMe) Ö®ÄÚÈİ
+### ä½¿ç”¨æ–¹æ³•
+å‚è§ [Wiki](https://github.com/chengr28/pcap_dnsproxy/wiki) ä¸­ [ReadMe](https://github.com/chengr28/pcap_dnsproxy/wiki/ReadMe) ä¹‹å†…å®¹
