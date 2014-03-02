@@ -7,9 +7,10 @@ A local DNS server base on WinPcap.
 * [master 分支](https://github.com/chengr28/pcap_dnsproxy)<br />
 * [Release_x64 分支](https://github.com/chengr28/pcap_dnsproxy/tree/Release_x64)<br />
 
-### Linux 版本说明
-[Release_x86 分支](https://github.com/chengr28/pcap_dnsproxy/tree/Release_x86) 和 [Release_x64 分支](https://github.com/chengr28/pcap_dnsproxy/tree/Release_x64) 的Linux版为相同的文件
+### Mac 版本说明
+[Release_x86 分支](https://github.com/chengr28/pcap_dnsproxy/tree/Release_x86) 和 [Release_x64 分支](https://github.com/chengr28/pcap_dnsproxy/tree/Release_x64) 的Mac版为相同的文件
 
 ### 使用方法
-* Windows版参见Wiki中 [ReadMe](https://github.com/chengr28/pcap_dnsproxy/wiki/ReadMe) 之内容
-* Linux版参见Wiki中 [ReadMe_Linux](https://github.com/chengr28/pcap_dnsproxy/wiki/ReadMe_Linux) 之内容
+* Windows版参见 [Wiki](https://github.com/chengr28/pcap_dnsproxy/wiki) 中 [ReadMe](https://github.com/chengr28/pcap_dnsproxy/wiki/ReadMe) 之内容
+* Linux版参见 [Wiki](https://github.com/chengr28/pcap_dnsproxy/wiki) 中 [ReadMe_Linux](https://github.com/chengr28/pcap_dnsproxy/wiki/ReadMe_Linux) 之内容
+* Mac版参见 [Wiki](https://github.com/chengr28/pcap_dnsproxy/wiki) 中 [ReadMe_Mac](https://github.com/chengr28/pcap_dnsproxy/wiki/ReadMe_Mac) 之内容
